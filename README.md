@@ -9,8 +9,9 @@ This project introduces a novel hybrid approach for handwritten signature verifi
 3. [Methodology](#methodology)
 4. [Results](#results)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [Pretrained](#pretrained)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Introduction
 
