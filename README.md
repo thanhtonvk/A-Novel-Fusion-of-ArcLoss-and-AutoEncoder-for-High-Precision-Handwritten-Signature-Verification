@@ -61,7 +61,7 @@ To use this project, follow these steps:
    ```bash 
    python extract_mask.py
 > [!WARNING]  
-> Please check the label again after extracting the mak before training.
+> Please check the label again after extracting the mask before training.
 6. Training 
    ```bash
    python train.py configs/mbf
