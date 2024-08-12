@@ -55,17 +55,17 @@ To use this project, follow these steps:
    git clone https://github.com/your-username/handwritten-signature-verification.git
 2. Install the required dependencies as specified in the requirements.txt file.
 3. [Request signature](https://forms.gle/NMvgMJrQ1TYmfbF89) 
-3. Download the signature dataset and place it in the datasets/images folder.
-4. Extract mask from signature
+4. Download the signature dataset and place it in the datasets/images folder.
+5. Extract mask from signature
    ```bash 
    python extract_mask.py
 > [!WARNING]  
 > Please check the label again after extracting the mak before training.
-5. Training 
+6. Training 
    ```bash
    python train.py configs/mbf
-4. Follow the instructions provided in the source code folder to preprocess the data, train the models, and evaluate their performance.
-5. Refer to the documentation and code comments for detailed explanations of each component of the project.
+. Follow the instructions provided in the source code folder to preprocess the data, train the models, and evaluate their performance.
+7. Refer to the documentation and code comments for detailed explanations of each component of the project.
 
 ## Contributing
 Contributions to this project are welcome. If you encounter any issues, have suggestions for improvements, or want to add new features, please open an issue or submit a pull request. Make sure to follow the contribution guidelines outlined in the repository.
