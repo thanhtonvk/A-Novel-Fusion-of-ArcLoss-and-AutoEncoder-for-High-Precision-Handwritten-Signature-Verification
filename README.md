@@ -76,7 +76,6 @@ To use this project, follow these steps:
 
 ## Contributing
 Contributions to this project are welcome. If you encounter any issues, have suggestions for improvements, or want to add new features, please open an issue or submit a pull request. Make sure to follow the contribution guidelines outlined in the repository.
-
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for academic or commercial purposes.
 For any further questions or inquiries, please contact the project maintainer at thanhtonvk@gmail.com.
