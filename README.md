@@ -79,5 +79,4 @@ Contributions to this project are welcome. If you encounter any issues, have sug
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for academic or commercial purposes.
-
 For any further questions or inquiries, please contact the project maintainer at thanhtonvk@gmail.com.
