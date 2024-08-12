@@ -64,8 +64,14 @@ To use this project, follow these steps:
 6. Training 
    ```bash
    python train.py configs/mbf
-. Follow the instructions provided in the source code folder to preprocess the data, train the models, and evaluate their performance.
-7. Refer to the documentation and code comments for detailed explanations of each component of the project.
+7. Follow the instructions provided in the source code folder to preprocess the data, train the models, and evaluate their performance.
+8. Refer to the documentation and code comments for detailed explanations of each component of the project.
+
+## Pretrained
+| Backbone      |                                                                                                   | 
+|:--------------|:--------------------------------------------------------------------------------------------------|
+| Mobilenet     | [Download](https://drive.google.com/file/d/1gEH_XUtj9YpsUpi1_0g4aD8PJfz9_G46/view?usp=sharing)    |
+| Resnet50      | [Download](https://drive.google.com/file/d/1U31ZhVqrogyaDfv_2EnyVsTWYBhZ1Azc/view?usp=drive_link) |
 
 ## Contributing
 Contributions to this project are welcome. If you encounter any issues, have suggestions for improvements, or want to add new features, please open an issue or submit a pull request. Make sure to follow the contribution guidelines outlined in the repository.
